@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<skills schemaLocation="schema/skills.xsd" version="02-03-2020">
+    <skill id="1">
+        <name>Example</name>
+        <description>
+            Lorem Ipsum ...
+        </description>
+        <priority>3</priority>
+        <moduletype>
+            <type>attack</type>
+            <type>melee</type>
+            <type>physical</type>
+            <type>dagger</type>
+        </moduletype>
+    </skill>
+    
+    <skill id="2">
+        <name>Example</name>
+        <description>
+            Lorem Ipsum ...
+        </description>
+        <priority>3</priority>
+        <moduletype>
+            <type>attack</type>
+            <type>melee</type>
+            <type>physical</type>
+            <type>dagger</type>
+        </moduletype>
+    </skill>
+</skills>
